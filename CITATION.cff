@@ -1,1 +1,9 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Har"      # Sostituisci col tuo Cognome reale
+    given-names: "Adom"    # Sostituisci col tuo Nome reale
+title: "ipv6-fuzzlab: IPv6 Packet Parsing and Fuzzing Framework"
+version: 1.0.0
+date-released: 2026-10-09
+url: "https://github.com/HarAdom/ipv6-fuzzlab"
