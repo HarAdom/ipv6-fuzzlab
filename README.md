@@ -1,6 +1,6 @@
 # IPv6-FuzzLab
 
-[![CI](https://github.com/REPLACE_WITH_OWNER/ipv6-fuzzlab/actions/workflows/ci.yml/badge.svg)](https://github.com/REPLACE_WITH_OWNER/ipv6-fuzzlab/actions/workflows/ci.yml)
+[![DOI](https://zenodo.org/badge/1411625656.svg)](https://doi.org/10.5281/zenodo.23260499)
 
 **IPv6-FuzzLab** is a modern, defensive-oriented IPv6 protocol robustness and security research toolkit inspired by the historical `ipv6fuck v1.0alfa` source code from around 2002.
 
