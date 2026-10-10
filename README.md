@@ -176,7 +176,6 @@ Examples:
 
 The parser operates on supplied bytes and does not create a network flood.
 
-> **GitHub note:** replace `REPLACE_WITH_OWNER` in the badge above with the final GitHub account or organization name before publishing.
 
 ---
 
